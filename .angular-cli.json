@@ -11,6 +11,11 @@
         "assets",
         "favicon.ico"
       ],
+      "defaults": {
+        "serve": {
+          "port": 1337
+        }
+      },
       "index": "index.html",
       "main": "main.ts",
       "polyfills": "polyfills.ts",
